@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  background: gray;
+  color: black;
+}
+
+tr {
+  height: 50px;
+  background: white;
+}
+
+td {
+  width: 50px;
+}
+
+table {
+  margin: auto
+}
